@@ -1,0 +1,13 @@
+Apuntador: Es una localidad de memoria que señala a otra localidad de memoria 
+
+x es un Arreglo de Apuntadores a Enteros
+		xArApEn
+		| |   |
+Calificador|  Tipo base
+			|
+	Tipo basico
+
+El nombre de una funcion es un apuntador constante a la primera intruccion de la misma  
+
+uriel gamboa facebook
+uriel.yamihatl.84@gmail.com

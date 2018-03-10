@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/RODRIGO/Desktop/ingenieria de software/clase8-02-18/src/Main.cpp
+Main.h
+/mnt/c/Users/RODRIGO/Desktop/ingenieria de software/clase8-02-18/src/Main.h
+
+include/Main.h
+iostream
+-
+array
+-
+

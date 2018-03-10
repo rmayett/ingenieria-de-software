@@ -1,0 +1,3 @@
+tarea martes hacer la clase Busca menorde3 con template 
+los datos se cambian por una estructura que tiene los 3 datos
+orca@unam.mx

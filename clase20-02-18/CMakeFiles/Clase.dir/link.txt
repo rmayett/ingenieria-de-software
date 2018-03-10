@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++0x    CMakeFiles/Clase.dir/src/main.cpp.o  -o Clase -rdynamic 
